@@ -2,7 +2,8 @@
 
 Language detection using n-gram model for PyCon PL'2020 lightning talks.
 
-Live talk presentation: TBA
+[![Language Detection in 7 minutes](http://i3.ytimg.com/vi/ExIc_Indhtg/maxresdefault.jpg)](https://youtu.be/ExIc_Indhtg)
+Live talk presentation: [YouTube](https://youtu.be/ExIc_Indhtg)
 
 ## Tools used
 - Jupyter notebook

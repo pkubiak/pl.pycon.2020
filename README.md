@@ -15,6 +15,7 @@ Slides: [link](slides.pdf)
 - [Jupyter notebook](https://github.com/jupyter/notebook)
 - [RISE](https://github.com/damianavila/RISE) - Presentation inside Jupyter notebook
 - [decktape](https://github.com/astefanutti/decktape) - Conversion of RISE presentation to pdf
+  - `docker run --rm -t -v `pwd`:/slides astefanutti/decktape rise -s 1920x1080 --screenshots --screenshots-size=1920x1080 <URL> out.pdf`
 - [audacity](https://github.com/audacity/audacity) - Audio mastering
 - [simplescreenrecorder](https://github.com/MaartenBaert/ssr) - Recording presentation to video
 - [shotcut](https://github.com/mltframework/shotcut) - Combining video and audio together
